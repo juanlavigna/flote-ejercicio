@@ -18,13 +18,13 @@ a:hover {
 }
 
 #contenido {
-    float: left;
-    width: 70%;
+    float: right;
+    width: 80%;
     background-color: #06D6A0;
 }
 
 #sidebar {    
-    float: right;
-    width: 30%;
+    float: left;
+    width: 20%;
     background-color: #EF476F;
 }
