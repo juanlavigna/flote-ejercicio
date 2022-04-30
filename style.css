@@ -5,6 +5,16 @@
 
 #navbar {
     background-color: #118AB2;
+    text-align: center;
+    padding: 4px 0px;
+}
+
+a {
+    color: beige;
+}
+
+a:hover {
+    color: rgb(223, 223, 142);
 }
 
 #contenido {
